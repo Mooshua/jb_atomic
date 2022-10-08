@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "fall_massive\hr_grass_01b" 
+	"$basetexture2" "fall_massive\hr_leaves_01"
+
+	$bumptransform "center .75 .75 scale .4 .4 rotate 0 translate 0 0"
+	$bumpmap "concrete/pavement_height-ssbump"
+	$ssbump 1
+	$SSBumpMathFix 1
+
+	$blendmodulatetexture "nature/blend_texture_01"
+
+	$surfaceprop grass
+	$surfaceprop2 dirt
+
+    %detailtype "atomic_floor_02"
+
+}

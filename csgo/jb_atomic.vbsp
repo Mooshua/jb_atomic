@@ -1,0 +1,77 @@
+detail
+{
+    atomic_floor_02
+    {
+        density 7000
+        GrasTex
+        {
+            alpha 0
+            Flower1
+            {
+                sprite "1024 0 326 453 1024"
+                spritesize "0.5 0.05 24 36"
+                spriterandomscale "0.2"
+                sway 0.4
+				upright 1
+				maxangle 85
+                amount 0.05
+            }
+            Flower2
+            {
+                sprite "616 512 365 512 1024"
+                spritesize "0.5 0.05 36 52"
+                spriterandomscale "0.2"
+                sway 0.4
+				upright 1
+				maxangle 85
+                amount 0.02
+            }
+            Flower3
+            {
+                sprite "0 512 311 512 1024"
+                spritesize "0.5 0.05 36 52"
+                spriterandomscale "0.2"
+                sway 0.4
+				upright 1
+				maxangle 85
+                amount 0.02
+            }
+            Grass1
+            {
+                sprite "607 0 193 256 1024"
+                spritesize "0.5 0.05 30 50"
+                spriterandomscale "0.4"
+                sway 0.2
+				upright 1
+				maxangle 85
+                amount 0.1
+            }
+            Grass2
+            {
+                sprite "832 0 192 256 1024"
+                spritesize "0.5 0.05 34 46"
+                spriterandomscale "0.4"
+                sway 0.2
+				upright 1
+				maxangle 85
+                amount 0.1
+            }
+            GrassWide1
+            {
+                sprite "571 256 512 244 1024"
+                spritesize "0.5 0.05 80 50"
+                spriterandomscale "0.2"
+                sway 0.2
+				upright 1
+				maxangle 75
+                amount 0.1
+            }
+        }
+        Epic
+        {
+            alpha 0.7
+
+            
+        }
+    }
+}

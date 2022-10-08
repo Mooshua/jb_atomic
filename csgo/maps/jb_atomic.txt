@@ -1,0 +1,17 @@
+
+<font color='#727272'>A map by</font> <font color='#C21E33'>Mooshua</font> <font color='#727272'>for the EdgeGamers Jailbreak community.</font>
+<font color='#F2F2F2'>Thank you for playing!</font>
+
+<font color='#C21E33'>Beta 7 (Patch 3)</font> <font color='#727272'>was compiled on 4/10/2022.</font>
+
+<font color='#626262'>You are free to decompile, make changes to, and redistribute this map under the CC BY-SA 4.0 License.</font>
+<font color='#626262'>All original vscripts are donated to the public domain under the Unilicense.</font>
+
+<font color='#727272'>Got ideas? Feedback? Bugs? Trying to contact me about my car's extended warranty? Hit me up! https://mooshua.net, Mooshua#1857 on Discord, and id/Mooshua on steam.</font>
+
+<font color='#F2F2F2'>Music Credits</font>
+<font color='#C21E33'>Aquamarine</font> <font color='#727272'>by Danger Mouse and Black Thought.</font>
+<font color='#C21E33'>And Septimus...</font> <font color='#727272'>by Andrew Wyatt</font>
+<font color='#C21E33'>Minecraft Soundtrack</font> <font color='#727272'>by C418</font>
+
+<font color='#0F0F0F'>Also subscribe to Mooshua+</font>
